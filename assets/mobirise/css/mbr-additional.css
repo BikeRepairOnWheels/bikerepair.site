@@ -1245,7 +1245,7 @@ a {
     margin-right: auto;
   }
   .cid-ucXoKOeCf0 .navbar-collapse {
-    z-index: -1 !important;
+    z-index: 1500 !important;
     position: absolute;
     top: 110%;
     left: 0;
@@ -2088,7 +2088,7 @@ a {
     margin-right: auto;
   }
   .cid-ud71uFy3Bf .navbar-collapse {
-    z-index: -1 !important;
+    z-index: 1500 !important;
     position: absolute;
     top: 110%;
     left: 0;
@@ -2682,7 +2682,7 @@ a {
     margin-right: auto;
   }
   .cid-ud6XZkDhQN .navbar-collapse {
-    z-index: -1 !important;
+    z-index: 1500 !important;
     position: absolute;
     top: 110%;
     left: 0;
@@ -3525,7 +3525,7 @@ a {
     margin-right: auto;
   }
   .cid-ucXoKOeCf0 .navbar-collapse {
-    z-index: -1 !important;
+    z-index: 1500 !important;
     position: absolute;
     top: 110%;
     left: 0;
